@@ -10,7 +10,6 @@
 255.255.255.255	broadcasthost
 ::1             localhost
 172.31.228.67   cm.splunk.clcm.heliosalliance.net
-172.31.228.66   splunk.clcm.heliosalliance.net
 172.31.228.69   chef.clcm.heliosalliance.net
 172.31.228.65   nexus.heliosalliance.net
 172.31.228.82   pipeline.clcm.heliosalliance.net
